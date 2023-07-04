@@ -1,0 +1,13 @@
+<Route exact path="/general"> <News pagesize={9} category={'general'} /> </Route>
+
+            <Route exact path="/business"> <News pagesize={9} category={'business'} /> </Route>
+            
+            <Route exact path="/entertainment"> <News pagesize={9} category={'entertainment'} /> </Route>
+
+            <Route exact path="/health"> <News pagesize={9} category={'health'} /> </Route>
+
+            <Route exact path="/science"> <News pagesize={9} category={'science'} /> </Route>
+
+            <Route exact path="/sports"> <News pagesize={9} category={'sports'} /> </Route>
+
+            <Route exact path="/technology"> <News pagesize={9} category={'general'} /> </Route>

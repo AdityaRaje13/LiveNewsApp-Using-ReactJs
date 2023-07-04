@@ -1,0 +1,98 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New images show Chinese spy balloons over Asia",
+            "description": "BBC Panorama worked with an artificial intelligence company to sift through millions of satellite pictures.",
+            "url": "http://www.bbc.co.uk/news/world 65972168",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A3AA/production/_130189814_balloon6.jpg",
+            "publishedAt": "2023 06 26T11:07:23.0258985Z",
+            "content": "New evidence of China's spy balloon programme   including flights over Japan and Taiwan   has been uncovered by BBC Panorama.\r\nJapan has confirmed balloons have flown over its territory and said it's… [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Titan sub implosion: US Coast guard launches investigation to recover debris",
+            "description": "The high level investigation has the power to recommend civil or criminal charges.",
+            "url": "http://www.bbc.co.uk/news/66015811",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3412/production/_130203331_f27606cbc8a7c4d4ef427c84f537efd02209b3510_0_3333_22921000x688.jpg",
+            "publishedAt": "2023 06 26T07:37:23.478934Z",
+            "content": "Media caption, Watch: A definitive timeline of the Titan's last moments\r\nAn investigation into the causes of the Titan submersible disaster has been opened by the US Coast Guard. \r\nChief investigator… [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia: Instability ratchets up pressure on Vladimir Putin",
+            "description": "Vladimir Putin's mixed messages on the Wagner mutiny have been raising eyebrows and changing perceptions of him.",
+            "url": "http://www.bbc.co.uk/news/world europe 66015624",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9E52/production/_130203504_c6bc5d5715d8e4d4e7a26aeb947599b57dd1da800_0_4509_31441000x697.jpg",
+            "publishedAt": "2023 06 26T07:37:21.7449908Z",
+            "content": "After a weekend of mayhem, I'm beginning to understand why Russia's national symbol is the double headed eagle: two heads staring in opposite directions.\r\nFirst, Yevgeny Prigozhin declares he's ready… [+3271 chars]"
+        },
+        
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Stephen Lawrence: BBC names new suspect in UK's most notorious racist murder",
+            "description": "Evidence about Matthew White, now dead, implicates other suspects and reveals more police failings.",
+            "url": "http://www.bbc.co.uk/news/uk 65989993",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C3C/production/_130180772_pafamilyhandout stephen.jpg",
+            "publishedAt": "2023 06 26T05:22:19.4330213Z",
+            "content": "A major suspect in the Stephen Lawrence murder is publicly named today for the first time, after a BBC investigation.\r\nHe is Matthew White, who died in 2021, aged 50. The BBC has found the Met Police… [+8241 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch ‘curious’ whale swim alongside kayaker in Bondi",
+            "description": "Jason Iggleden captured drone footage of a humpback whale following a kayaker in Sydney, Australia.",
+            "url": "http://www.bbc.co.uk/news/world australia 66016582",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C30/production/_130204058_p0fx9mh0.jpg",
+            "publishedAt": "2023 06 26T04:37:16.1353754Z",
+            "content": "Drone pilot Jason Iggleden captured footage of a humpback whale following a kayaker near Bondi Beach in Sydney, Australia. A record 5,092 whales were spotted from various points along the New South W… [+87 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Picking a fair Florida jury for Donald Trump could prove a herculean task",
+            "description": "Biased jurors must be weeded out in a state where Mr Trump receives both strong support and disdain.",
+            "url": "http://www.bbc.co.uk/news/world us canada 65966074",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14AEF/production/_130191748_ef89cac5fa74623a8514586e5f8e6d1a5fbe6a19.jpg",
+            "publishedAt": "2023 06 25T23:52:16.4480302Z",
+            "content": "When Donald Trump goes on trial in his classified documents case, the court will have to find 12 Florida jurors who can leave their opinion of the former president at the door. That won't be easy. \r\n… [+5780 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Teenager on sub took Rubik's Cube to break record, mother tells BBC",
+            "description": "In her first interview, Christine Dawood told the BBC she lost hope when the 96 hour mark passed.",
+            "url": "http://www.bbc.co.uk/news/world us canada 66015851",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C9E/production/_130203230_photo25 06 2023180555.jpg",
+            "publishedAt": "2023 06 25T22:22:19.5575992Z",
+            "content": "Media caption, Watch: Moment Titanic sub victim Suleman Dawood solves Rubik's Cube\r\nTeenager Suleman Dawood, who died in the Titan submersible, took his Rubik's Cube with him because he wanted to bre… [+3297 chars]"
+        }
+    ]
+}
